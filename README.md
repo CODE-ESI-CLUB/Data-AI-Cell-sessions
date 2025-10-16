@@ -1,7 +1,5 @@
 # Data-AI-Cell-sessions
 
-# Data & AI Cell Sessions
-
 Welcome to the **Data & AI Cell Sessions** repository by **CODE ESI CLUB**! 🎓
 
 This repository contains all training sessions, workshops, and tutorials for our Data & AI Cell program.
